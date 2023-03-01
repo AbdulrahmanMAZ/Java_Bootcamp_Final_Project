@@ -24,4 +24,4 @@ This project will conect the start-ups with all kind of advisors. Where they can
 # Figma Link
 https://www.figma.com/file/2A8z0Gk6vWLhkwKSzvuPGZ/Untitled?node-id=39%3A5560&t=C2g834IcKNho6kd9-1
 
-# Presentaion 
+#[a link]https://github.com/AbdulrahmanMAZ/Java_Bootcamp_Final_Project/blob/main/tuwaiq_final_project.pptx Presentaion 
