@@ -20,3 +20,8 @@ This project will conect the start-ups with all kind of advisors. Where they can
 ## 2. Use case.
 
 ![2023-03-01 18_47_29-@Banderalassmi - Discord](https://user-images.githubusercontent.com/78767370/222190740-3bf19865-0834-4f9e-b75e-b8a19d8553ac.png)
+
+# Figma Link
+https://www.figma.com/file/2A8z0Gk6vWLhkwKSzvuPGZ/Untitled?node-id=39%3A5560&t=C2g834IcKNho6kd9-1
+
+# Presentaion 
