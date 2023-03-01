@@ -3,8 +3,8 @@
 # Introduction
 This is the final project of Jave Bootcamp.
 ## Developed and written by
-### * Abdulrahman Mofarreh
-### * Bander Alassmi
+###     Abdulrahman Mofarreh
+###     Bander Alassmi
 
 
 ## Project Scope
@@ -15,5 +15,8 @@ This project will conect the start-ups with all kind of advisors. Where they can
 
 # Diagrams.
 ## 1. Class diagram.
+![2023-03-01 18_47_40-@Banderalassmi - Discord](https://user-images.githubusercontent.com/78767370/222190699-a349a3b9-2952-4b25-a4a4-077229ec3578.png)
+
 ## 2. Use case.
 
+![2023-03-01 18_47_29-@Banderalassmi - Discord](https://user-images.githubusercontent.com/78767370/222190740-3bf19865-0834-4f9e-b75e-b8a19d8553ac.png)
